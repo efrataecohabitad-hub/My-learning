@@ -1,2 +1,2 @@
 # My-learning
-ESTOY DESTRUYENDO EL README EN ESTA RAMA
+Mi Aprendizaje en GitHub - Bitácora Oficial.
